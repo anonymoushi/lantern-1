@@ -1,3 +1,5 @@
+俺那个【自动同步翻墙工具】的 BT sync 密钥：BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG
+
 “Lantern”是一款新兴的翻墙工具。“蓝灯”是它的中文名。
 它的特色是：开源并且跨平台（Windows、Linux、Mac OS）。
 
